@@ -1,5 +1,13 @@
 ### Hi there 👋
 I'm Joe, a data scientist currently trying to master the nuts and bolts of machine learning. 
+
+### Languages and Tools
+- Python
+- SQL
+- Tableau
+- Machine Learning
+- Jupyter Notebook
+
 <!--
 **Josefxl/Josefxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
