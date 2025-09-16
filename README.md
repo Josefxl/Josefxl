@@ -6,7 +6,9 @@ I'm Joe, a data scientist currently trying to master the nuts and bolts of machi
 - SQL
 - Tableau
 - TensorFlow, Scikit-learn
+- Computer Vision
 - Natural Language Processing
+
 
 <!--
 **Josefxl/Josefxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
