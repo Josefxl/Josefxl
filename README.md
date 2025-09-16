@@ -5,7 +5,6 @@ I'm Joe, a data scientist currently trying to master the nuts and bolts of machi
 - Python
 - SQL
 - Tableau
-- TensorFlow, Scikit-learn
 - Computer Vision
 - Natural Language Processing
 
