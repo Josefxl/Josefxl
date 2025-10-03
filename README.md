@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Joe, a data scientist currently trying to master the nuts and bolts of machine learning. 
+I'm Joe, a data scientist currently building solutions that scale
 
 ### Languages and Tools
 - Python
